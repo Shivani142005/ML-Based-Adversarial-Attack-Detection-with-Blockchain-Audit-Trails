@@ -1,3 +1,22 @@
+<div align="center">
+
+# 🚀 ML-Based Adversarial Attack Detection with Blockchain Audit Trails
+
+### 🔐 Secure AI • 🧠 Deep Learning • ⛓️ Blockchain Security • 🛡️ Cybersecurity
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?style=for-the-badge&logo=tensorflow)
+![Blockchain](https://img.shields.io/badge/Blockchain-Ethereum-black?style=for-the-badge&logo=ethereum)
+![IPFS](https://img.shields.io/badge/IPFS-DecentralizedStorage-blueviolet?style=for-the-badge)
+![CyberSecurity](https://img.shields.io/badge/CyberSecurity-AdversarialAI-red?style=for-the-badge)
+![Research](https://img.shields.io/badge/Research-FinalYearProject-success?style=for-the-badge)
+
+</div>
+
+---
+
 # 🚀 Adversarial Attack Detection with Blockchain Audit Trails
 
 ## 📌 Project Overview
